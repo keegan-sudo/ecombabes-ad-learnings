@@ -255,3 +255,96 @@ Two ads with identical targeting and budget will produce completely different re
 | Frequency (weekly) | > 5x | 2–4x | < 2x |
 
 These are US averages. Calibrate to your own niche data over time.
+
+---
+
+---
+
+# Reel Script Testing — Hook Scoring Learnings
+
+Source: Internal script scoring across 14 Pillar 1 reel scripts (June 2026)
+
+---
+
+## The Scoring Framework
+
+Every hook is scored on four factors. Miss the top two and the script will not break 80/100.
+
+| Factor | Weight | What to look for |
+|--------|--------|-----------------|
+| **Specificity** | 40% | A dollar figure AND a timeframe in the first 5 seconds |
+| **Audience mirror** | 35% | Viewer sees themselves in sentence one — their pain, their reality |
+| **Proof credibility** | 15% | Real names, real revenue, hard-to-fake specifics |
+| **Hook type strength** | 10% | Based on tested hook performance rankings |
+
+---
+
+## Hook Type Performance Rankings
+
+| Rank | Hook Type | Notes |
+|------|-----------|-------|
+| #1 | Credibility Proof | Compressed story arc + name drop in first 10 seconds. Best for cold traffic. |
+| #2 | Shocking Stat + Audience Mirror | Stat creates scale. Mirror line makes viewer feel it personally. |
+| #3 | Social Proof | Extreme specificity (age, timeframe, $) removes "I'm not qualified" objection before it's raised. |
+| #4 | Curiosity / Exposé | Dollar figure + mystery. Must frame from viewer's perspective, not brand's. |
+| #5 | Quiet Money | "No product, no following, no office" — removes three objections in one line. |
+| #6 | Contradiction | Strong but needs $ + timeframe in hook, not just the body. |
+| #7 | Fear | Powerful emotion but only scores high when math hits in present tense, not future. |
+| #8 | Aspirational Identity | Better for warm/retargeting. Slow for cold traffic. |
+| #9 | Algorithm Validation | Overused. Audiences conditioned to scroll past it. |
+| #10 | Freedom / Identity | Works for lifestyle/grid content. Not a conversion hook. |
+
+---
+
+## The Three Most Common Reasons a Hook Scores Under 80
+
+**1. No dollar figure or timeframe in the hook.**
+The body has the numbers but the hook doesn't. Cold traffic won't wait — if the promise isn't in the first 5 seconds, they scroll. This is the single biggest lever. Worth 40% of the score.
+
+**2. Framed from the wrong perspective.**
+Hooks that lead with the brand's problem ("brands are losing money on ads") instead of the viewer's problem score lower on audience mirror. Always ask: *does the viewer see themselves in sentence one?*
+
+Example of wrong framing: "Right now brands are losing money on every dollar they spend on ads."
+Fix: "Right now a brand is paying $3,000 a month to someone managing their ads remotely — and that person could be you."
+
+**3. Future loss instead of present loss.**
+"In 10 years you'll be in the same job" is weaker than "you worked a full year and you're making less than 12 months ago." Present tense math hits harder — the viewer feels the loss *right now*.
+
+Weak: "Every year you stay in a job, your earning ceiling gets lower."
+Strong: "Average salary raise this year: 3%. Average inflation: 4%. You worked a full year and you're making less than you were 12 months ago."
+
+---
+
+## The Audience Mirror Line
+
+Every high-scoring hook contains a line that names something the viewer feels but hasn't said out loud:
+
+- "Most people feel this but can't name it." (Fear hook)
+- "Most people never question it." (Shocking stat hook)
+- "They're ready for something different." (Quiet money hook)
+- "That's not unusual. That's the pattern I keep seeing." (Social proof hook)
+
+This line does two things: validates the viewer's feeling and positions you as someone who understands them before you've asked for anything. Without it, even a strong hook reads like a pitch instead of a conversation.
+
+---
+
+## Script Scores — Full Library (14 Pillar 1 Scripts)
+
+| Rank | Script | Hook Type | Score |
+|------|--------|-----------|-------|
+| 1 | Credibility Proof (Iman Gadzhi) | Credibility Proof | 90 |
+| 2 | Shocking Stat + Mirror (3% raise / 4% inflation) | Shocking Stat | 89 |
+| 3 | Social Proof (He was 22, no experience) | Social Proof | 88 |
+| 4 | Credibility Proof (Wall St Quants — $0 to $650K) | Credibility Proof | 84 |
+| 5 | Contradiction (Most think you need to be an expert) | Contradiction | 84 |
+| 6 | Curiosity/Exposé (Brand spending $50K, losing money) | Curiosity/Exposé | 85 |
+| 7 | Fear (3% vs 4% — present tense math) | Fear | 83 |
+| 8 | Quiet Money variant (no product, no following, no office) | Quiet Money | 76 |
+| 9 | Contradiction (Quit before I knew anything) | Contradiction | 75 |
+| 10 | Quiet Money (your circle works more, earns less) | Quiet Money | 74 |
+| 11 | Curiosity/Exposé ($3K–$6K, almost nobody teaching it) | Curiosity/Exposé | 73 |
+| 12 | Shocking Stat (90,000 hours — no $ in hook) | Shocking Stat | 64 |
+| 13 | Fear (earning ceiling gets lower — future tense) | Fear | 63 |
+| 14 | Aspirational Identity (mysterious friend) | Aspirational Identity | 55 |
+| 15 | Algorithm Validation (Instagram didn't show you this) | Algorithm Validation | 45 |
+| 16 | Freedom/Identity (morning routine) | Freedom/Identity | 44 |
